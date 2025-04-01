@@ -52,7 +52,7 @@ This project and all enhancements were collaboratively developed using **ChatGPT
 > Provider: OpenAI  
 > Code generated with context-aware prompts and iterative refinement between human and AI.
 
-Original vibe coding sessions:
+Original vibe coding session: https://chatgpt.com/share/67ebf778-16b8-8000-8ef0-52cdac7f9a92
 
 
 
